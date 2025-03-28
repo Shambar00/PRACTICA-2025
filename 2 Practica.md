@@ -25,7 +25,8 @@
    - Виртуальная машина была запущена, и началась установка Ubuntu с виртуального CD/DVD диска.
    - ![изображение](https://github.com/user-attachments/assets/b6da24f4-49c1-4366-b40f-2cf335560e03)
    - ![изображение](https://github.com/user-attachments/assets/77eb0a7c-df1d-4090-8e11-5913f5540b30)
-   - ![изображение](https://github.com/user-attachments/assets/4194eca0-4460-45a9-a307-227f3533f6e1)
+  -  ![Без имени](https://github.com/user-attachments/assets/0bfe3413-ca3e-4974-9377-57acf6ad58b6)
+
  **Установка Ubuntu:**
    - Следуя инструкциям на экране, была успешно завершена установка операционной системы на виртуальную машину.
    - ![изображение](https://github.com/user-attachments/assets/463dbe5a-8ce2-4f4f-9c60-634bee29d541)
