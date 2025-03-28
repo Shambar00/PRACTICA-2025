@@ -8,7 +8,7 @@
 ### Подготовка виртуальной машины
  **Выбор программного обеспечения для виртуализации:**
    - Для создания виртуальной машины был выбран VirtualBox.
-   - ![Без имени](https://github.com/user-attachments/assets/17ac7ba8-6a7f-47b8-8ed1-bc4f14956e7e)
+   - ![изображение](https://github.com/user-attachments/assets/75f40acb-dc34-4ff3-ad55-02564b9825e6)
 
 
 
@@ -16,29 +16,29 @@
  **Выбор дистрибутива:**
    - Был выбран дистрибутив Ubuntu для установки.
    - Образ ISO был загружен с официального сайта Ubuntu.
-   - ![Alt text](<Без имени-2.png>)
+   - ![Без имени](https://github.com/user-attachments/assets/17ac7ba8-6a7f-47b8-8ed1-bc4f14956e7e)
 
 **Настройка виртуальной машины:**
    - Загруженный образ ISO был подключен к виртуальной машине в качестве виртуального CD/DVD диска.
-   - ![Alt text](<Без имени-3.png>)
-   - ![Alt text](<Без имени-4.png>)
-   - ![Alt text](<Без имени-5.png>)
-   - ![Alt text](<Без имени-6.png>)
-
+   -  ![Без имени](https://github.com/user-attachments/assets/7d74851c-0338-4a95-8172-6ef8e6e85f80)
+   - ![Без имени](https://github.com/user-attachments/assets/9db48ce8-9b14-460c-a9cf-12df47768f4d)
+   - ![изображение](https://github.com/user-attachments/assets/24f6d7c4-6190-4dc1-ab9c-2d150c82cf03)
+   - ![изображение](https://github.com/user-attachments/assets/04081967-41b8-402f-9003-dafdcbef39be)
 ### Процесс установки
  **Запуск установки:**
    - Виртуальная машина была запущена, и началась установка Ubuntu с виртуального CD/DVD диска.
-   - ![Alt text](<Без имени-7.png>)
-   - ![Alt text](<Без имени-8.png>)
-   - ![Alt text](<Без имени-9.png>)
+   - ![изображение](https://github.com/user-attachments/assets/b6da24f4-49c1-4366-b40f-2cf335560e03)
+   - ![изображение](https://github.com/user-attachments/assets/77eb0a7c-df1d-4090-8e11-5913f5540b30)
+   - ![изображение](https://github.com/user-attachments/assets/4194eca0-4460-45a9-a307-227f3533f6e1)
+
 
  **Установка Ubuntu:**
    - Следуя инструкциям на экране, была успешно завершена установка операционной системы на виртуальную машину.
-   - ![Alt text](<Без имени-10.png>)
+   - ![изображение](https://github.com/user-attachments/assets/463dbe5a-8ce2-4f4f-9c60-634bee29d541)
 ### Установка программного обеспечения
  **Использование менеджера пакетов:**
    - Был использован APT (Advanced Package Tool) для установки необходимого программного обеспечения.
-   - ![Alt text](<Без имени-11.png>)
+   - ![изображение](https://github.com/user-attachments/assets/f4b8bb31-5b5b-4210-a1c9-d2eb4beedc4f)
  **Обновление системы:**
    - Система и установленные пакеты были обновлены до последней версии.
 
