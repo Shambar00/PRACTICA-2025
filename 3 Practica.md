@@ -37,7 +37,7 @@
 - Процесс: Изменил сетевой адаптер на Bridged и проверил доступ к локальной сети и интернету.
 - Проблемы: Нет.
 ![image-24](https://github.com/user-attachments/assets/ea4fc3d0-81a7-4428-bd9c-47fc6cd06f1b)
-![image-25](https://github.com/user-attachments/assets/669e35a6-1246-4bc7-a2f7-a05c0cd03474)
+
 
 ### Настройка Host-Only:
 
