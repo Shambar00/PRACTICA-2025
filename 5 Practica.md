@@ -5,88 +5,110 @@
 ### Методические указания и задания:
 
 #### I. Настройка рабочего стола
+![image](https://github.com/user-attachments/assets/5b9323e0-8f77-4f91-96b2-138197ce9647)
 
 1. Выберите фоновый рисунок рабочего стола.
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/b1e9ed20-03d3-400f-a412-55f0f2ce24ac)
+
 2. Измените цветовую схему.
-![alt text](image-1.png)
+
 3. Настройте оформление окон Windows и их элементов.
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/99c512a4-5401-409a-abec-5a941b1def72)
+
 4. Подключите и настройте заставку экрана.
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/3ce422b1-2454-4cf4-9a8c-9fb034bce54a)
+
 5. Сохраните пакет настроек как тему оформления Windows.
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/51d72643-4910-4fe7-bd44-4cf4f2813d14)
+
 6. Определите папку сохранения темы пользователя.
 `C:\Users\[Анаста]\AppData\Local\Microsoft\Windows\Themes`
 
 #### II. Настройка звуков
+![image](https://github.com/user-attachments/assets/511e45a9-483c-44ef-b1ac-9b70e1d10136)
 
 1. Выберите схему звукового оформления.
-![alt text](image-5.png)
+
 2. Настройте программные события, выбрав подходящие звуки.
 3. Сохраните новые настройки как звуковую схему.
-![alt text](image-6.png)
+![image](https://github.com/user-attachments/assets/74270d43-3f90-4ce5-af4e-497140fbac8b)
+
 4. Определите папку сохранения звуковой схемы пользователя.
 
 #### III. Настройка параметров мыши
 
 1. Установите максимальную скорость двойного щелчка на вкладке "Кнопки".
-![alt text](image-7.png)
+![image](https://github.com/user-attachments/assets/ca0c1ae3-0354-41e2-9807-3571938b90e2)
+
 2. Выберите инверсную схему указателей, настройте виды указателя и включите тень указателя.
-![alt text](image-8.png)
-![alt text](image-9.png)
+![image](https://github.com/user-attachments/assets/0e24473c-a240-4550-8c4b-c3c29651d6cd)
+
+![image](https://github.com/user-attachments/assets/eb72e614-b1e8-4c9f-b433-63f4abd1691e)
+
 3. Сохраните настройки как схему указателей.
 4. Определите папку сохранения схемы пользователя.
 `C:\Windows\Cursors`
 5. Настройте скорость движения указателя выше среднего и отобразите след указателя мыши.
-![alt text](image-10.png)
+![image](https://github.com/user-attachments/assets/fe18e2e0-46e1-4ec4-a8c7-46cd3532c0cf)
+
 6. Установите поворот колесика мыши на один щелчок на 7 строк.
 
 #### IV. Настройка панели задач
 
 1. Переместите панель задач в верхнюю часть экрана.
-![alt text](image-11.png)
+![image](https://github.com/user-attachments/assets/dc87e92c-6590-4add-a25c-eb214ae70eba)
+
 2. Включите автоматическое скрытие панели задач.
-![alt text](image-12.png)
+![image](https://github.com/user-attachments/assets/f8601e9f-9587-4b63-8947-ceb977a8e0ca)
+
 3. Настройте группировку задач при заполнении панели задач.
-![alt text](image-13.png)
+![image](https://github.com/user-attachments/assets/2598ffea-63f6-4069-b5b7-be3d2fdbd01c)
+
 4. Скрывайте значки уведомлений для громкости и сети.
 5. Настройте отображение недавно использовавшихся программ (5 штук).
 6. Закрепите программу Paint на панели задач.
-![alt text](image-14.png)
+![image](https://github.com/user-attachments/assets/c759c6be-bdc7-4aa7-83bd-9684b05d94fe)
+
 7. Уберите часы с панели задач.
 
 #### V. Настройка главного меню Windows
 
 1. Добавьте новый элемент в главное меню (папку с ярлыками программ).
 2. Создайте элемент "Мои программы" с ярлыками для запуска калькулятора и блокнота.
-![alt text](image-15.png)
+![image](https://github.com/user-attachments/assets/3eeade08-69ee-42b9-b897-f0550142a082)
+
 
 #### VI. Настройка элементов автозагрузки
 
 1. Разместите ярлыки для запуска MS Word и MS Excel в папке автозагрузки.
-![alt text](image-16.png)
+![image](https://github.com/user-attachments/assets/32cbde58-b404-4f6d-8236-75c178f15cb3)
+
 
 #### VII. Настройка клавиатуры
 
 1. Закройте языковую панель на панели задач.
 2. Верните языковую панель обратно через настройки панели управления.
 3. Установите сочетание клавиш Ctrl+Shift для смены раскладки клавиатуры.
-![alt text](image-18.png)
+![image](https://github.com/user-attachments/assets/bcd95115-a244-40b9-828b-96d50a1fb19f)
+
 
 #### VIII. Настройка свойств папок
 
 1. Выберите вариант обзора папок (открывать каждую папку в отдельном окне).
-![alt text](image-19.png)
+![image](https://github.com/user-attachments/assets/af69cb44-3546-406c-ab65-3ceced0922b4)
+
 2. Установите параметры отображения (например, показывать расширения файлов).
-![alt text](image-20.png)
+![image](https://github.com/user-attachments/assets/e0bda194-06a1-4add-bc1d-fd774d05750d)
+
 3. Измените значок для любой папки.
-![alt text](image-21.png)
+![image](https://github.com/user-attachments/assets/c233e218-0a0f-40ba-a3b8-54d63c75c8c6)
+
 
 #### IX. Выбор программ по умолчанию
 
 1. Назначьте MS Word программой по умолчанию для текстовых файлов (.txt).
-![alt text](image-22.png)
+![image](https://github.com/user-attachments/assets/96df8c81-d560-40ee-b990-6aeceea71e62)
+
 ---
 
 ## Лабораторная работа №2: Работа в режиме командной строки
@@ -100,7 +122,8 @@
 2. Составить конспект используемых команд с пояснениями.
 3–39: Выполнить практические задания с использованием команд (например, создание каталогов, копирование/перемещение файлов, настройка атрибутов).
 
-![alt text](image-32.png)
+![image](https://github.com/user-attachments/assets/073b6432-a6f5-4c88-8673-e7f6847aabdf)
+
 ![alt text](image-33.png)
 
 # Конспект основных команд CMD
